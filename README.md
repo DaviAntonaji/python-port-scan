@@ -11,7 +11,6 @@
 
 
 - Python tested version: 3.8.0
-- Start the application by entering the project folder and typing::
 
 - Start the application by entering the project folder and typing:
 ```
