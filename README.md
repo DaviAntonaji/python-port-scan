@@ -13,7 +13,7 @@
 - Python tested version: 3.8.0
 - Start the application by entering the project folder and typing::
 
-- Para rodar a aplicação em português digite:
+- Start the application by entering the project folder and typing:
 ```
 python3 app.py
 ```
